@@ -6,9 +6,6 @@ import org.slf4j.LoggerFactory;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by densanki on 22.01.2017.
- */
 public abstract class Abstract {
 
     private final Throwable t = new Throwable();

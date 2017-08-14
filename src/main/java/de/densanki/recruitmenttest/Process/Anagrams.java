@@ -2,9 +2,6 @@ package de.densanki.recruitmenttest.Process;
 
 import java.util.Arrays;
 
-/**
- * Created by densanki on 22.01.2017.
- */
 public class Anagrams extends Abstract {
 
     public void process(String line) {

@@ -10,9 +10,6 @@ import java.net.URLDecoder;
 import java.nio.charset.StandardCharsets;
 import java.security.CodeSource;
 
-/**
- * Created by densanki on 22.01.2017.
- */
 public class Reader {
 
     private static final Logger logger = LoggerFactory.getLogger(Reader.class);
